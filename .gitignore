@@ -1,0 +1,17 @@
+# Node
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build artifacts
+*.tmp
+*.bak
+
+# Save data (optional - remove if you want to track saves)
+save/
+
