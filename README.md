@@ -1,4 +1,4 @@
-The Silence of Smallville
+The Silence of Smallville.
 The Silence of Smallville is a dark, narrative-driven RPG built in RPG Maker MV. Players take on the role of a seasoned mercenary hired by the Crown to investigate a mysterious disappearance. What begins as a simple scouting mission quickly spirals into a descent into an ancient, bone-chilled nightmare.
 ________________________________________
 Installation
