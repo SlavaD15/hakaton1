@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":1369.7142857142856,"scrollY":1542},
-{"id":2,"expanded":false,"name":"Fortress_Upperfloor","order":2,"parentId":0,"scrollX":3430.285714285714,"scrollY":822},
+{"id":2,"expanded":false,"name":"Fortress_Upperfloor","order":2,"parentId":0,"scrollX":1525.7142857142856,"scrollY":822},
 {"id":3,"expanded":false,"name":"Fortress_WaterUpperFloor","order":3,"parentId":0,"scrollX":1369.7142857142856,"scrollY":822},
 {"id":4,"expanded":false,"name":"Fortress_WaterLowerFloor","order":4,"parentId":0,"scrollX":3430.285714285714,"scrollY":822},
 {"id":5,"expanded":false,"name":"Fortress_LavaFloor","order":5,"parentId":0,"scrollX":1510.2857142857142,"scrollY":822},
